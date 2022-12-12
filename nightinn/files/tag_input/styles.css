@@ -531,12 +531,12 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
-  height:48px;
+  width:97px;
+  height:40px;
   background:inherit;
-  background-color:rgba(48, 48, 48, 1);
+  background-color:rgba(246, 246, 245, 1);
   border:none;
-  border-radius:99px;
+  border-radius:8px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -546,8 +546,8 @@
   position:absolute;
   left:-1px;
   top:0px;
-  width:104px;
-  height:48px;
+  width:97px;
+  height:40px;
   display:flex;
 }
 .u132 .text {
@@ -582,8 +582,8 @@
 .u134 {
   border-width:0px;
   position:absolute;
-  left:71px;
-  top:16px;
+  left:64px;
+  top:12px;
   width:16px;
   height:16px;
   display:flex;
@@ -606,7 +606,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
+  width:41px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -615,27 +615,27 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'GT Walsheim Pro Medium', 'GT Walsheim Pro Regular', 'GT Walsheim Pro', sans-serif;
-  font-weight:500;
+  font-family:'GT Walsheim Pro', sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
-  color:#FFFFFF;
+  color:#303030;
   text-align:center;
   line-height:24px;
 }
 .u135 {
   border-width:0px;
   position:absolute;
-  left:23px;
-  top:12px;
-  width:42px;
+  left:15px;
+  top:8px;
+  width:41px;
   height:24px;
   display:flex;
-  font-family:'GT Walsheim Pro Medium', 'GT Walsheim Pro Regular', 'GT Walsheim Pro', sans-serif;
-  font-weight:500;
+  font-family:'GT Walsheim Pro', sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:16px;
-  color:#FFFFFF;
+  color:#303030;
   text-align:center;
   line-height:24px;
 }
@@ -656,8 +656,8 @@
   position:absolute;
   left:360px;
   top:439px;
-  width:103px;
-  height:48px;
+  width:96px;
+  height:40px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
