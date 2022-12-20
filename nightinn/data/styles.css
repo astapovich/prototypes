@@ -12,6 +12,8 @@
 }
 .box_1 {
 }
+.ellipse {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -68,7 +70,7 @@
 .line {
 }
 .text_field {
-  font-family:'GT Walsheim Pro', sans-serif;
+  font-family:'GT Walsheim Pro Regular', 'GT Walsheim Pro', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:18px;
